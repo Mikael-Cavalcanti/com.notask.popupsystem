@@ -1,0 +1,13 @@
+{
+  "name": "com.notask.popupsystem",
+  "version": "1.0.0",
+  "displayName": "Popup System",
+  "description": "Popup system universall",
+  "unity": "2022.3",
+  "keywords": [],
+  "author": {
+    "name": "Mikael Cavalcanti",
+    "email": "mikaelmigs2@gmail.com"
+  },
+  "dependencies": {}
+}
